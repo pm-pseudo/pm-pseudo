@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**pm-pseudo/pm-pseudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Priyanka
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I'm passionate about technology, AI, and building interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal projects
+- 🌱 Learning new technologies 
+- 💻 Interested in data analytics
+
+## 🛠️ Technical Skills
+- Languages: Python, Java, R
+- Tools: Git, GitHub, VS Code, Figma
+
+## 📂 Featured Projects
+- [Project 1](https://github.com/pm-pseudo/musically-moody-2.0)

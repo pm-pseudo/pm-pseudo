@@ -13,4 +13,4 @@ I'm passionate about technology, AI, and building interesting projects.
 - Tools: Git, GitHub, VS Code, R Studio, Figma
 
 ## 📂 Featured Projects
-- [Project 1](https://github.com/pm-pseudo/musically-moody-2.0)
+- [Musically Moody (updated version)](https://github.com/pm-pseudo/musically-moody-2.0)

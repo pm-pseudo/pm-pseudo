@@ -1,5 +1,5 @@
 
-# Priyanka Morampudi | Data Science and Economics Student @ Rutgers University
+# Priyanka Morampudi | Data Science and Economics Student 
 
 I am passionate about leveraging data analytics, machine learning, and economic insights to solve real-world problems. Interested in applying quantitative methods and technology to understand markets, inform decision-making, and uncover meaningful patterns in complex data. Focused on combining analytical thinking with practical solutions to drive impact across finance, business, and economic research.
 
